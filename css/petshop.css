@@ -51,3 +51,18 @@ nav a:hover{
     padding-right: 0;
     margin-right: 0;
 }
+/* Grupos de elementos estilizados (.class) */
+
+.fundoVerde{
+    background-color: #bdff9c;
+}
+
+.container{
+    width: 900px;
+    margin: 0 auto;
+    padding: 56px 0;
+}
+
+.flexContainer .col{
+    width: 430px;
+}
